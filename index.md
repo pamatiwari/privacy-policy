@@ -1,34 +1,69 @@
 # Introduction
 
-This Privacy Policy applies to the mobile application "Phocyyyyy" operated by lakyyyyyyy kak.
+1. Introduction
+Effective Date: 12 January 2026
 
-This policy explains how we collect, use, and protect user information when you use our application.
+Welcome to Phocyyyyy, an AI-powered media processing application operated by lakyyyyyyy kak. Phocyyyyy is designed to help users apply advanced color transfer and color style transformation to their images and videos using pre-trained artificial intelligence models.
 
-This Privacy Policy applies to all users of the application. By using the application, you agree to the collection and use of information in accordance with this Privacy Policy.
+Our application focuses specifically on AI-based color transfer across different types of media. The main features include:
 
-The application is available on the Google Play Store and is intended for users aged 13 and above.
+Image-to-Image color transfer
 
-# Information We Collect
+Video-to-Video color transfer
 
-We may collect the following types of information when you use our application:
-Images and videos selected by the user from their device gallery for processing.
-Device information such as device model, operating system version, and app usage data.
-Anonymous analytics and crash information to improve app performance and stability.
+Image-to-Video color style transfer
+
+Video-to-Image color style transfer
+
+These features allow users to apply the color style of one image or video to another while preserving the original structure and content of the media.
+
+In addition to color transfer, Phocyyyyy provides professional adjustment tools that let users fine-tune their media, including:
+
+Contrast
+
+Brightness
+
+Saturation
+
+Hue
+
+Temperature
+
+Tint
+
+To deliver these functionalities, Phocyyyyy uses multiple trusted pre-trained AI models that process media efficiently and securely. We do not sell, rent, or misuse your personal data. Our primary goal is to provide high-quality color transformation and enhancement tools for creative and professional use.
+
+Phocyyyyy may use trusted third-party services such as Google AdMob and Firebase. These services may collect limited technical information (such as device identifiers, crash reports, and usage statistics) to display advertisements, improve app performance, and ensure application stability.
+
+By using Phocyyyyy, you agree to the collection and use of information in accordance with this Privacy Policy.
+This application is available on the Google Play Store and is intended for users aged 13 years and above.
+
+# How We Use Information 
+
+We use the information collected from users only for the following specific purposes:
+
+Core Feature Functionality:
+To process images and videos selected by the user and apply AI-driven color transfer, color style transformation, and manual media adjustment features such as Brightness, Contrast, Saturation, Hue, Temperature, and Tint.
+
+AI Processing:
+To utilize trusted pre-trained AI models for performing complex color transformations across different media formats, including Image-to-Image, Video-to-Video, Image-to-Video, and Video-to-Image color style transfer.
+
+App Performance & Stability:
+To monitor application performance, analyze stability, and detect technical issues or crashes using anonymous analytics services like Firebase Crashlytics.
+
+Advertising Services:
+To display advertisements through Google AdMob, which may collect limited device identifiers and usage information in accordance with Google’s privacy policies.
+
+Security & Maintenance:
+To ensure the security, reliability, and proper functioning of our application and any server-side processing, and to prevent unauthorized access or misuse.
+
+Service Improvement:
+To improve the quality, accuracy, and efficiency of our color transfer algorithms and enhance the overall user experience.
+
+Important Note on Media Usage:
+We do not use your personal images or videos for any purpose other than providing the requested processing services. Your media files are used strictly to perform color transfer and enhancement operations. They are not used to train our AI models, are not stored permanently on our servers, and are not shared with third parties for marketing or promotional purposes.
 
 
-# How We Use Information
-
-We use the information collected from users for the following purposes:
-
-To process images and videos selected by the user and apply color transfer or enhancement features within the application.
-
-To operate, maintain, and improve the functionality and performance of the application.
-
-To analyze app usage, detect bugs, and improve user experience using anonymous analytics and crash reports.
-
-To ensure the security, stability, and proper functioning of the application.
-
-We do not use user information for any purpose other than providing and improving the services offered by the application.
 
 # Media & Storage Access
 
