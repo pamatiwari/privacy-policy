@@ -3,7 +3,7 @@
 1. Introduction
 Effective Date: 12 January 2026
 
-Welcome to Phocyyyyy, an AI-powered media processing application operated by lakyyyyyyy kak. Phocyyyyy is designed to help users apply advanced color transfer and color style transformation to their images and videos using pre-trained artificial intelligence models.
+Welcome to Phorcysty, an AI-powered media processing application operated by lakyyyyyyy kak. Phorcysty is designed to help users apply advanced color transfer and color style transformation to their images and videos using pre-trained artificial intelligence models.
 
 Our application focuses specifically on AI-based color transfer across different types of media. The main features include:
 
@@ -17,7 +17,7 @@ Video-to-Image color style transfer
 
 These features allow users to apply the color style of one image or video to another while preserving the original structure and content of the media.
 
-In addition to color transfer, Phocyyyyy provides professional adjustment tools that let users fine-tune their media, including:
+In addition to color transfer, Phorcysty provides professional adjustment tools that let users fine-tune their media, including:
 
 Contrast
 
@@ -31,11 +31,11 @@ Temperature
 
 Tint
 
-To deliver these functionalities, Phocyyyyy uses multiple trusted pre-trained AI models that process media efficiently and securely. We do not sell, rent, or misuse your personal data. Our primary goal is to provide high-quality color transformation and enhancement tools for creative and professional use.
+To deliver these functionalities, Phorcysty uses multiple trusted pre-trained AI models that process media efficiently and securely. We do not sell, rent, or misuse your personal data. Our primary goal is to provide high-quality color transformation and enhancement tools for creative and professional use.
 
-Phocyyyyy may use trusted third-party services such as Google AdMob and Firebase. These services may collect limited technical information (such as device identifiers, crash reports, and usage statistics) to display advertisements, improve app performance, and ensure application stability.
+Phorcysty may use trusted third-party services such as Google AdMob and Firebase. These services may collect limited technical information (such as device identifiers, crash reports, and usage statistics) to display advertisements, improve app performance, and ensure application stability.
 
-By using Phocyyyyy, you agree to the collection and use of information in accordance with this Privacy Policy.
+By using Phorcysty, you agree to the collection and use of information in accordance with this Privacy Policy.
 This application is available on the Google Play Store and is intended for users aged 13 years and above.
 
 # How We Use Information 
@@ -86,8 +86,9 @@ Image-to-Video color style transfer
 
 Video-to-Image color style transfer
 
-Saving Results:
-The application requires storage access to save the final processed images or videos back to your device’s gallery when you choose to export or download them.
+Saving Results :
+
+The application requires storage access to download the final processed images or videos directly to your device’s gallery when you tap the Download button.
 
 No Background Access:
 The application does not access, modify, or upload any media files in the background or without your explicit action.
